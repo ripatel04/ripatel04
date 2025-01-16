@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Riya Patel, final year student studying a BSc in Information Technology.
+- 👋 Hi, I’m Riya Patel, IT graduate.
 - 👀 I’m interested in software development, data analytics and security.
 - 🌱 I’m currently learning programming languages to enhnance my skills.
 - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions.
